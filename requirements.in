@@ -1,0 +1,5 @@
+deepagents==0.7.32
+graphiti-core==0.31.2
+langchain-deepseek==1.1.1
+langgraph-checkpoint-sqlite==3.1.2
+sentence-transformers==6.2.0

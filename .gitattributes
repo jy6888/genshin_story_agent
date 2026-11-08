@@ -1,0 +1,5 @@
+* text=auto eol=lf
+# Frozen archives are byte-addressed; checkout must preserve their hashes.
+docs/project/snapshots/** -text
+**/evidence/** -text
+**/archives/** -text
